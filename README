@@ -1,1 +1,4 @@
-Master branch
+Bootstrap branch
+
+salt state cloned from https://github.com/saltstack-formulas/salt-formula,
+which is licensed under the Apache 2 license.
